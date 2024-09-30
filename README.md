@@ -2,4 +2,4 @@
 
 Per: https://hackmd.io/9GbIUAAxSgqXzYyJDbwzVg
 
-Implements until M6.
+Implements M6 and partial M7.
